@@ -1,0 +1,42 @@
+/* Global */
+body {
+    font-family: arial;
+    width: 600px;
+    margin: auto;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.text {
+    margin: 0px 30px 0px 30px
+}
+
+/* HEADER */
+.header {
+    /* display: flex; */
+    text-align: center;
+}
+
+/* MAIN */
+
+/* Section-main and last */
+.sect-center {
+    /* width: 544px; */
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Section 1 2 3 after main*/
+.section {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 30px 30px 30px;
+}
+
+/* FOOTER */
+.footer {
+    text-align: center;
+}
